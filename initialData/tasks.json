@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Website Design",
+    "percentDone": 30,
+    "startDate": "2024-05-20",
+    "rollup": true,
+    "endDate": "2024-06-14",
+    "expanded": true
+  },
+  {
+    "id": 2,
+    "name": "Contact designers",
+    "percentDone": 100,
+    "startDate": "2024-05-24",
+    "endDate": "2024-05-26",
+    "parentId": 1
+  },
+  {
+    "id": 3,
+    "name": "Create shortlist of three designers",
+    "percentDone": 60,
+    "startDate": "2024-05-27",
+    "endDate": "2024-05-29",
+    "parentId": 1
+  },
+  {
+    "id": 4,
+    "name": "Select & review final design",
+    "percentDone": 0,
+    "startDate": "2024-05-30",
+    "endDate": "2024-06-03",
+    "parentId": 1
+  },
+  {
+    "id": 5,
+    "name": "Apply design to web site",
+    "percentDone": 0,
+    "startDate": "2024-06-04",
+    "endDate": "2024-06-07",
+    "parentId": 1
+  },
+  {
+    "id": 6,
+    "name": "User feedback assessment",
+    "percentDone": 0,
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-14",
+    "parentId": 1
+  },
+  {
+    "id": 7,
+    "name": "Setup Test Strategy",
+    "percentDone": 0,
+    "startDate": "2024-06-17",
+    "endDate": "2024-06-28",
+    "expanded": true
+  },
+  {
+    "id": 8,
+    "name": "Hire QA staff",
+    "percentDone": 0,
+    "startDate": "2024-06-17",
+    "endDate": "2024-06-19",
+    "parentId": 7
+  },
+  {
+    "id": 9,
+    "name": "Write test specs",
+    "percentDone": 0,
+    "startDate": "2024-06-19",
+    "endDate": "2024-06-21",
+    "parentId": 7
+  },
+  {
+    "id": 10,
+    "name": "Unit tests",
+    "percentDone": 0,
+    "startDate": "2024-06-22",
+    "endDate": "2024-06-24",
+    "parentId": 7
+  },
+  {
+    "id": 11,
+    "name": "UI unit tests / individual screens",
+    "percentDone": 0,
+    "startDate": "2024-06-25",
+    "endDate": "2024-06-28",
+    "parentId": 7
+  },
+  {
+    "id": 12,
+    "name": "Application tests",
+    "percentDone": 0,
+    "startDate": "2024-05-21",
+    "endDate": "2024-06-02",
+    "parentId": 7
+  }
+]
